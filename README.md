@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Abhishek M Nair
 **A passionate Full Stack Developer || AI & ML Enthusiast || MCA Student**
 
-Email Me 👉 ✉️ **abhishekmnair81@gmail.com** For Collaboration, Projects, or Anything Else. 😊
+Email Me 👉 ✉️ **abhishekmnair81@gmail.com**  For Collaboration, Projects, or Anything Else. 😊
 
 - 🔭 **I’m currently working on:** AI-Powered Telemedicine Access for Rural Healthcare
 - 🌱 **I’m currently learning:** Advanced Machine Learning techniques via Udemy
