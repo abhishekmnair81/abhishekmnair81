@@ -1,89 +1,42 @@
+# 💫 Hi 👋, I'm Abhishek M Nair
+**A passionate Full Stack Developer || AI & ML Enthusiast || MCA Student**
+
+Email Me 👉 ✉️ **abhishekmnair81@gmail.com**  For Collaboration, Projects, or Anything Else. 😊
+
+- 🔭 **I’m currently working on:** AI-Powered Telemedicine Access for Rural Healthcare
+- 🌱 **I’m currently learning:** Advanced Machine Learning techniques via Udemy
+- 👯 **I’m looking to collaborate on:** Innovative Full Stack or AI/ML projects
+- 🤝 **I’m looking for help with:** Scaling AI applications and model deployment
+- 💬 **Ask me about:** Pursuing my MCA in AI/ML or Full Stack Development
+- 📫 **How to reach me:** abhishekmnair81@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I treat my extra Udemy courses like my daily workout for the brain!
+
+## 🌐 Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishek__muralidharan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekmnair81) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhishekm_nair) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekmnair81@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Abhishek+M+Nair;Full+Stack+Developer;AI+%2F+ML+Engineer+in+Training)](https://git.io/typing-svg)
-
-Building practical software at the intersection of full-stack engineering and applied machine learning.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishek-my-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekmnair81)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekmnair81)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmnair81@gmail.com)
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhishekmnair81&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abhishekmnair81&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmnair81&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## About
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abhishekmnair81&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-I'm an MCA student focused on full-stack development and machine learning, with a particular interest in applying AI to real-world problems in healthcare access. I work across the stack — Django/React on the web side, PyTorch/scikit-learn on the ML side.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Currently
-
-- **Building:** AI-powered telemedicine access platform for rural healthcare *(add repo link below)*
-- **Learning:** Advanced machine learning techniques (model deployment, MLOps)
-- **Open to:** Full-stack and AI/ML collaboration; reach out via [email](mailto:abhishekmnair81@gmail.com)
-
----
-
-## Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Backend**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-**Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abhishekmnair81&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=abhishekmnair81&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Featured Project
-
-### AI-Powered Telemedicine Access for Rural Healthcare
-*[Add a 2-3 line description: what problem it solves, what you built, what's novel about your approach]*
-
-`[Tech stack used]` · [Repo →](#) · [Live Demo →](#)
-
-> **Action needed:** Replace the placeholders above with your actual repo link, demo link, and a real description. A featured project with no link is the single biggest credibility gap in this README — fix this before anything else.
-
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=abhishekmnair81&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmnair81&theme=dark&hide_border=true&layout=compact)
-
----
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekmnair81/abhishekmnair81/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekmnair81/abhishekmnair81/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekmnair81/abhishekmnair81/output/github-contribution-grid-snake.svg">
-</picture>
-
-> **Setup required — this won't render until you do this:**
-> 1. Create a repo named exactly `abhishekmnair81` (your GitHub profile repo, if you don't already have one) and put this README in it.
-> 2. Add the workflow file below at `.github/workflows/snake.yml` in that repo.
-> 3. Push it. The action runs once on push, then daily on schedule, and writes the SVG to an `output` branch — which is what the URLs above point to.
-> 4. First run takes a minute or two. Refresh the README after.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
