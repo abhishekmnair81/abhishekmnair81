@@ -1,7 +1,6 @@
 <div align="center">
 
-# Abhishek M Nair
-### Full Stack Developer · AI/ML Engineer in Training
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Abhishek+M+Nair;Full+Stack+Developer;AI+%2F+ML+Engineer+in+Training)](https://git.io/typing-svg)
 
 Building practical software at the intersection of full-stack engineering and applied machine learning.
 
@@ -72,3 +71,19 @@ I'm an MCA student focused on full-stack development and machine learning, with 
 
 ![](https://github-readme-stats.vercel.app/api?username=abhishekmnair81&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmnair81&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekmnair81/abhishekmnair81/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekmnair81/abhishekmnair81/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekmnair81/abhishekmnair81/output/github-contribution-grid-snake.svg">
+</picture>
+
+> **Setup required — this won't render until you do this:**
+> 1. Create a repo named exactly `abhishekmnair81` (your GitHub profile repo, if you don't already have one) and put this README in it.
+> 2. Add the workflow file below at `.github/workflows/snake.yml` in that repo.
+> 3. Push it. The action runs once on push, then daily on schedule, and writes the SVG to an `output` branch — which is what the URLs above point to.
+> 4. First run takes a minute or two. Refresh the README after.
