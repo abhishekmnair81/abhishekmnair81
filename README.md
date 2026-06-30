@@ -40,7 +40,7 @@ For Collaboration, Projects, or Anything Else. 😊
 * 👯 **I’m looking to collaborate on:** Innovative Full Stack or AI/ML projects
 * 🤝 **I’m looking for help with:** Scaling AI applications and model deployment
 * 💬 **Ask me about:** Pursuing my MCA in AI/ML or Full Stack Development
-* 📫 **How to reach me:** [abhishekmnair81@gmail.com](mailto:abhishekmnair81@gmail.com) 🌐 Visit my portfolio: **[abhishek-my-portfolio.vercel.app](https://abhishek-my-portfolio.vercel.app/)**
+* 📫 **How to reach me:** [abhishekmnair81@gmail.com](mailto:abhishekmnair81@gmail.com) | 🌐 Visit my portfolio: **[abhishek-my-portfolio.vercel.app](https://abhishek-my-portfolio.vercel.app/)**
 * 😄 **Pronouns:** He/Him
 * ⚡ **Fun fact:** I treat my extra Udemy courses like my daily workout for the brain!
 
